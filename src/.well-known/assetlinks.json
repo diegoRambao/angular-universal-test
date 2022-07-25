@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.diegorambao.deeplinks",
+      "sha256_cert_fingerprints": [
+        "B6:61:F4:F4:2C:2B:A4:77:DD:CB:A4:4B:E3:1D:64:EA:90:A3:67:87:E0:DB:B9:E0:C2:4B:A3:E4:48:49:77:B9"
+      ]
+    }
+  }
+]

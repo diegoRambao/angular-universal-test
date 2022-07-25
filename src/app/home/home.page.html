@@ -1,0 +1,6 @@
+<h2>Tus tareas</h2>
+
+<div class="container-item" *ngFor="let todo of todos" routerLink="/detail/{{todo.id}}">
+  <h3>{{todo.title}}</h3>
+  <p>{{ todo.completed }}</p>
+</div>
